@@ -22,7 +22,7 @@ Includes:
 - Lemmatization  
 
 ### ✔️ Step 3 — Exploratory Data Analysis (EDA)
-- Review distribution  
+- Review distribution   
 - Length visualization  
 - Sentiment distribution  
 - Visuals created using **matplotlib** and **seaborn**
